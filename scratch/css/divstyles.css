@@ -1,0 +1,35 @@
+.common{
+    /* border: 2px solid white; */
+    position: absolute;
+}
+.nav{
+    position: relative;
+    float: right;
+    font-size: 75%;
+}
+.footer{
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    font-size: 75%;
+    font-style: italic;
+    text-align: center;
+    background-color: rgba(169, 169, 169, 0.75);
+}
+.header{
+    top: 0px;
+    left:0px;
+    right: 0px;
+    text-align: center;
+    z-index: -1;
+}
+.content{
+    top: 70px;
+    left: 5%;
+    right: 5%;
+    background-color: rgba(219, 209, 209, 0.5);
+}
+.bold{
+    font-weight: bold;
+}
