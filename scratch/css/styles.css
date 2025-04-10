@@ -30,9 +30,9 @@ img{
     background-color: limegreen;
 }
 .rizz:hover{
-    font-size: 450%;
-    color: red;
-    border: 5px solid cyan;
+    font-size: 400%;
+    color: black;
+    border: 2px solid black;
 }
 li{
     width:fit-content;
